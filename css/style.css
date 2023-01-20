@@ -1,0 +1,45 @@
+.button a{width: 160px;
+         height: 64px;
+        background-color: 
+           #E76F51;
+         text-align: center;
+         padding-top: 15px; 
+         font-weight: 700;
+         font-size: 20px; 
+         } 
+.button-2 a {
+    height: 64px;
+   background-color: 
+      #E76F51;
+    text-align: center;
+    padding: 20px; 
+    font-weight: 700;
+    font-size: 20px; 
+    text-decoration: none;
+     margin-left: 60px;}
+
+.nav-title{font-size: 35px;  font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;}
+    
+.header-title{font-weight: 700;
+    font-size: 60px;font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;} 
+    
+    /* feture styles */
+.feture-title{text-align: center;
+              margin-top: 80px;
+             
+              }
+
+.ftr{height: 300px;}
+.f-img{width: 150px;}
+
+
+
+@media screen and (max-width:576px) {.header-title{ font-size: 45px;}
+   .button{width: 50px;} 
+   .button-2 a{margin-left: 10px;}
+   .ftr{height: 400px;} 
+     
+}
+
